@@ -2224,7 +2224,7 @@
 		(dnp no)
 		(uuid "04be7716-84cf-4385-86e0-cc12dc408cc3")
 		(property "Reference" "SW14"
-			(at 143.51 104.14 0)
+			(at 143.51 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2232,7 +2232,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 143.51 106.426 0)
+			(at 143.51 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2358,7 +2358,7 @@
 		(dnp no)
 		(uuid "0ef3cfc0-7cde-4f4a-9509-9d061787bc42")
 		(property "Reference" "SW8"
-			(at 127 89.916 0)
+			(at 126.746 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2366,7 +2366,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 127 92.456 0)
+			(at 127.254 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2425,7 +2425,7 @@
 		(dnp no)
 		(uuid "10e01d66-a889-4b07-93e5-68e939f20687")
 		(property "Reference" "SW17"
-			(at 162.56 78.486 0)
+			(at 162.306 79.756 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2433,7 +2433,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 162.56 81.026 0)
+			(at 162.56 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2560,7 +2560,7 @@
 		(dnp no)
 		(uuid "13b3d4f9-88b0-4046-8950-251fbc00568e")
 		(property "Reference" "SW19"
-			(at 162.56 104.14 0)
+			(at 162.56 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2568,7 +2568,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 162.56 106.426 0)
+			(at 162.56 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2979,7 +2979,7 @@
 		(dnp no)
 		(uuid "3d312d93-be2f-4804-980f-d1b355ee5679")
 		(property "Reference" "SW9"
-			(at 127 104.14 0)
+			(at 127 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2987,7 +2987,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 127 106.426 0)
+			(at 127 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3200,7 +3200,7 @@
 		(dnp no)
 		(uuid "42b97975-c0ea-42eb-9c65-47351cce389d")
 		(property "Reference" "SW10"
-			(at 127 115.57 0)
+			(at 127 114.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3208,7 +3208,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 127 118.11 0)
+			(at 127 116.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3443,7 +3443,7 @@
 		(dnp no)
 		(uuid "586bac4d-5985-4bfb-b282-59abc9c87590")
 		(property "Reference" "SW25"
-			(at 180.34 115.57 0)
+			(at 180.34 114.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3451,7 +3451,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 180.34 118.11 0)
+			(at 180.34 116.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3666,7 +3666,7 @@
 		(dnp no)
 		(uuid "67fc5d2c-02d3-49a7-a14b-b2a363a697c5")
 		(property "Reference" "SW20"
-			(at 162.56 115.57 0)
+			(at 162.56 114.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3674,7 +3674,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 162.56 118.11 0)
+			(at 162.56 116.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4283,7 +4283,7 @@
 		(dnp no)
 		(uuid "8fad13f9-6322-4ebf-a726-44a3b748c9b3")
 		(property "Reference" "SW13"
-			(at 143.51 89.916 0)
+			(at 143.256 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4291,7 +4291,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 143.51 92.456 0)
+			(at 143.764 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4350,7 +4350,7 @@
 		(dnp no)
 		(uuid "958669e7-dc31-4e98-b233-1322d60e936f")
 		(property "Reference" "SW3"
-			(at 109.22 89.916 0)
+			(at 108.966 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4358,7 +4358,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 109.22 92.456 0)
+			(at 109.474 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4505,7 +4505,7 @@
 		(dnp no)
 		(uuid "9e13696b-4b1d-43ab-8edd-c4743cacc39d")
 		(property "Reference" "SW18"
-			(at 162.56 89.916 0)
+			(at 162.306 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4513,7 +4513,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 162.56 92.456 0)
+			(at 162.814 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4660,7 +4660,7 @@
 		(dnp no)
 		(uuid "b08805c5-82bf-40eb-85e5-8a4454494809")
 		(property "Reference" "SW4"
-			(at 109.22 104.14 0)
+			(at 109.22 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4668,7 +4668,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 109.22 106.426 0)
+			(at 109.22 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4815,7 +4815,7 @@
 		(dnp no)
 		(uuid "bcac2716-f1aa-43ec-b756-d8bdabc11a9f")
 		(property "Reference" "SW15"
-			(at 143.51 115.57 0)
+			(at 143.51 114.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4823,7 +4823,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 143.51 118.11 0)
+			(at 143.51 116.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,7 +5126,7 @@
 		(dnp no)
 		(uuid "cae06055-fe95-4132-8cb3-af80cbf7c65e")
 		(property "Reference" "SW7"
-			(at 127 78.486 0)
+			(at 126.746 79.756 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5134,7 +5134,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 127 81.026 0)
+			(at 127 81.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5281,7 +5281,7 @@
 		(dnp no)
 		(uuid "d2f9fb07-e8a9-4ab7-afd3-04fb2dd40d44")
 		(property "Reference" "SW5"
-			(at 109.22 115.57 0)
+			(at 109.22 114.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5289,7 +5289,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 109.22 118.11 0)
+			(at 109.22 116.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5348,7 +5348,7 @@
 		(dnp no)
 		(uuid "d6a7c2f8-5276-4702-8ac8-5038cbd0b6a6")
 		(property "Reference" "SW2"
-			(at 109.22 78.486 0)
+			(at 108.966 79.756 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5356,7 +5356,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 109.22 81.026 0)
+			(at 109.22 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5835,7 +5835,7 @@
 		(dnp no)
 		(uuid "e3bffd82-d5ff-423a-be1c-43c720fade53")
 		(property "Reference" "SW22"
-			(at 180.34 78.486 0)
+			(at 180.086 79.756 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5843,7 +5843,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 180.34 81.026 0)
+			(at 180.34 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6058,7 +6058,7 @@
 		(dnp no)
 		(uuid "f3413f89-c3c0-48e7-9e2d-f334981e67b9")
 		(property "Reference" "SW23"
-			(at 180.34 89.916 0)
+			(at 180.086 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6066,7 +6066,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 180.34 92.456 0)
+			(at 180.594 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6213,7 +6213,7 @@
 		(dnp no)
 		(uuid "fa5c06b1-2074-4cbd-b43a-cf3e94585685")
 		(property "Reference" "SW12"
-			(at 143.51 78.486 0)
+			(at 143.256 79.756 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6221,7 +6221,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 143.51 81.026 0)
+			(at 143.51 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6280,7 +6280,7 @@
 		(dnp no)
 		(uuid "fa78dafc-5c17-4ee8-a03d-3cd7f13684bb")
 		(property "Reference" "SW24"
-			(at 180.34 104.14 0)
+			(at 180.34 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6288,7 +6288,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 180.34 106.426 0)
+			(at 180.34 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
