@@ -48,7 +48,7 @@
 		)
 	)
 	(sheet
-		(at 219.71 46.99)
+		(at 185.42 69.85)
 		(size 25.4 16.51)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +64,7 @@
 		)
 		(uuid "ec6070db-a54a-4edd-b672-a653bdef4d4c")
 		(property "Sheetname" "left"
-			(at 219.71 46.2784 0)
+			(at 185.42 69.1384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +73,7 @@
 			)
 		)
 		(property "Sheetfile" "half.kicad_sch"
-			(at 219.71 64.0846 0)
+			(at 185.42 86.9446 0)
 			(effects
 				(font
 					(size 1.27 1.27)

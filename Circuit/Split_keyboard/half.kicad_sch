@@ -1263,6 +1263,12 @@
 		(uuid 89225b7f-e711-4738-aaea-0cda151df22e)
 	)
 	(junction
+		(at 201.93 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f4283ce-569f-4857-8752-1208b0eab639")
+	)
+	(junction
 		(at 220.98 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1303,6 +1309,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36e47cb6-cf41-4e87-a2f3-c2bdbc66384d")
+	)
+	(junction
+		(at 231.14 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b7ad901-35e7-4d25-bf5c-2396f6bee610")
 	)
 	(junction
 		(at 212.09 130.81)
@@ -1381,6 +1393,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "844f221d-2ee1-40d0-ac8f-bffb8dfefc84")
+	)
+	(junction
+		(at 220.98 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85512ae9-d936-479b-97c6-a121e6b94e7c")
+	)
+	(junction
+		(at 212.09 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "857a7123-990f-4902-bb07-461bed389c01")
 	)
 	(junction
 		(at 231.14 80.01)
@@ -1514,6 +1538,38 @@
 		(color 0 0 0 0)
 		(uuid "ff3f5e4b-a514-4850-a237-61dc79bf4bc3")
 	)
+	(no_connect
+		(at 85.09 78.74)
+		(uuid "09000f3d-9018-4595-9c9d-bf9aea8f41e3")
+	)
+	(no_connect
+		(at 99.06 90.17)
+		(uuid "09f86a4f-63c3-4095-adf6-6b626c5d9a38")
+	)
+	(no_connect
+		(at 81.28 78.74)
+		(uuid "18821c77-6dd4-4680-950b-3a10613b6969")
+	)
+	(no_connect
+		(at 86.36 123.19)
+		(uuid "5631a491-6969-45ad-8d8f-8c121734d343")
+	)
+	(no_connect
+		(at 81.28 123.19)
+		(uuid "581a8299-14bb-4d9f-ac14-abd0c5895f80")
+	)
+	(no_connect
+		(at 99.06 97.79)
+		(uuid "78f41c4a-2211-4091-b54f-efb0d23cf9cb")
+	)
+	(no_connect
+		(at 73.66 78.74)
+		(uuid "9d00ccd3-c983-4b36-ab09-12583ccb5be2")
+	)
+	(no_connect
+		(at 77.47 78.74)
+		(uuid "b915199d-316d-44ca-964d-9170d79c8c32")
+	)
 	(wire
 		(pts
 			(xy 177.8 80.01) (xy 195.58 80.01)
@@ -1593,6 +1649,16 @@
 			(type default)
 		)
 		(uuid "26b36bc7-7369-4ce8-8fe7-0aaa0cc7a008")
+	)
+	(wire
+		(pts
+			(xy 212.09 147.32) (xy 231.14 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2920228b-c5ed-4f9f-a0fc-bd01d84b74c9")
 	)
 	(wire
 		(pts
@@ -1743,6 +1809,16 @@
 			(type default)
 		)
 		(uuid "5f0a8711-72f9-40e2-9500-14ba92c43c24")
+	)
+	(wire
+		(pts
+			(xy 201.93 123.19) (xy 201.93 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6247f316-2138-4f87-ab1c-98fb089497d1")
 	)
 	(wire
 		(pts
@@ -1916,6 +1992,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 123.19) (xy 220.98 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab29e660-0cbf-46eb-9929-b99c77830dc4")
+	)
+	(wire
+		(pts
 			(xy 195.58 119.38) (xy 212.09 119.38)
 		)
 		(stroke
@@ -2016,7 +2102,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 147.32) (xy 248.92 147.32)
+			(xy 156.21 147.32) (xy 212.09 147.32)
 		)
 		(stroke
 			(width 0)
@@ -2083,6 +2169,16 @@
 			(type default)
 		)
 		(uuid "e134602e-fc8a-4f47-a589-df4468cb2cf9")
+	)
+	(wire
+		(pts
+			(xy 231.14 147.32) (xy 248.92 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e19c1924-9d8f-430a-bba0-399ea7558c31")
 	)
 	(wire
 		(pts
@@ -2874,7 +2970,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 172.72 118.11 0)
 			(effects
 				(font
@@ -2911,6 +3007,94 @@
 			(project "Split_keyboard"
 				(path "/746a5aca-25fe-4581-b9dd-fba448d4b64a/ec6070db-a54a-4edd-b672-a653bdef4d4c"
 					(reference "SW31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 231.14 143.51 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0adf97e0-c433-417a-95e7-8d19aca80e63")
+		(property "Reference" "D1"
+			(at 233.68 142.2399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 233.68 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 231.14 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 231.14 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 231.14 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 231.14 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "38f863d8-15f8-441a-a7e2-eac57637ba13")
+		)
+		(pin "1"
+			(uuid "14f835a6-3123-460a-ae81-c130874fc4e2")
+		)
+		(instances
+			(project "Split_keyboard"
+				(path "/746a5aca-25fe-4581-b9dd-fba448d4b64a/ec6070db-a54a-4edd-b672-a653bdef4d4c"
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -3004,7 +3188,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 207.01 81.28 0)
 			(effects
 				(font
@@ -3072,7 +3256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 226.06 67.31 0)
 			(effects
 				(font
@@ -3378,7 +3562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 243.84 118.11 0)
 			(effects
 				(font
@@ -3534,7 +3718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 172.72 67.31 0)
 			(effects
 				(font
@@ -3689,7 +3873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 243.84 92.71 0)
 			(effects
 				(font
@@ -4088,7 +4272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 172.72 92.71 0)
 			(effects
 				(font
@@ -4155,7 +4339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 226.06 81.28 0)
 			(effects
 				(font
@@ -4378,7 +4562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 226.06 118.11 0)
 			(effects
 				(font
@@ -4534,7 +4718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 243.84 134.62 0)
 			(effects
 				(font
@@ -4571,6 +4755,74 @@
 			(project "Split_keyboard"
 				(path "/746a5aca-25fe-4581-b9dd-fba448d4b64a/ec6070db-a54a-4edd-b672-a653bdef4d4c"
 					(reference "SW52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 207.01 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6be61b84-6dab-4ec6-83f3-b76950e9a3c6")
+		(property "Reference" "SW2"
+			(at 207.01 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 207.01 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
+			(at 207.01 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 207.01 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed59f528-96c4-41fa-8155-d4aa201c549b")
+		)
+		(pin "2"
+			(uuid "fdc05bf6-0d19-4bb0-8f56-36388f1a7de1")
+		)
+		(instances
+			(project "Split_keyboard"
+				(path "/746a5aca-25fe-4581-b9dd-fba448d4b64a/ec6070db-a54a-4edd-b672-a653bdef4d4c"
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -4755,7 +5007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 190.5 118.11 0)
 			(effects
 				(font
@@ -5196,7 +5448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 190.5 106.68 0)
 			(effects
 				(font
@@ -5263,7 +5515,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 172.72 106.68 0)
 			(effects
 				(font
@@ -5395,6 +5647,74 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 226.06 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d081ae9-485a-4dbf-9972-d3da53ca8276")
+		(property "Reference" "SW1"
+			(at 226.06 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 226.06 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
+			(at 226.06 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 226.06 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8b2d022b-bd7f-4b94-9372-2178a231f8e7")
+		)
+		(pin "2"
+			(uuid "2b7c4625-308b-4d7a-964e-4856a1757ca7")
+		)
+		(instances
+			(project "Split_keyboard"
+				(path "/746a5aca-25fe-4581-b9dd-fba448d4b64a/ec6070db-a54a-4edd-b672-a653bdef4d4c"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 207.01 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5418,7 +5738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 207.01 118.11 0)
 			(effects
 				(font
@@ -5767,7 +6087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 243.84 67.31 0)
 			(effects
 				(font
@@ -5897,7 +6217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 190.5 81.28 0)
 			(effects
 				(font
@@ -6053,7 +6373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 207.01 67.31 0)
 			(effects
 				(font
@@ -6096,6 +6416,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 212.09 143.51 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af920b00-95bf-46a5-bed9-37363bb7f895")
+		(property "Reference" "D2"
+			(at 214.63 142.2399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 214.63 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 212.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 212.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 212.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 212.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 212.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e653214f-b690-4940-96e4-67aeb25aeaba")
+		)
+		(pin "1"
+			(uuid "89ca04dc-5352-4b43-8a6b-30fdab0d352c")
+		)
+		(instances
+			(project "Split_keyboard"
+				(path "/746a5aca-25fe-4581-b9dd-fba448d4b64a/ec6070db-a54a-4edd-b672-a653bdef4d4c"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 226.06 97.79 0)
 		(unit 1)
@@ -6120,7 +6528,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 226.06 92.71 0)
 			(effects
 				(font
@@ -6404,7 +6812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 172.72 81.28 0)
 			(effects
 				(font
@@ -6471,7 +6879,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 243.84 81.28 0)
 			(effects
 				(font
@@ -7042,7 +7450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 190.5 67.31 0)
 			(effects
 				(font
@@ -7109,7 +7517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 207.01 92.71 0)
 			(effects
 				(font
@@ -7176,7 +7584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 207.01 106.68 0)
 			(effects
 				(font
@@ -7331,7 +7739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 243.84 106.68 0)
 			(effects
 				(font
@@ -7398,7 +7806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 190.5 92.71 0)
 			(effects
 				(font
@@ -7729,7 +8137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "marbastlib-choc:SW_choc_v1_1u"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 226.06 106.68 0)
 			(effects
 				(font
