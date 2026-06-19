@@ -1454,7 +1454,7 @@
 	)
 	(rectangle
 		(start 48.26 148.59)
-		(end 74.93 193.04)
+		(end 74.93 196.85)
 		(stroke
 			(width 0)
 			(type default)
@@ -4392,7 +4392,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 58.42 158.75 0)
 			(effects
 				(font
@@ -4552,7 +4552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 58.42 171.45 0)
 			(effects
 				(font
@@ -5396,7 +5396,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 58.42 165.1 0)
 			(effects
 				(font
@@ -6996,7 +6996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 58.42 177.8 0)
 			(effects
 				(font
@@ -8128,6 +8128,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 58.42 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cdd7f633-3e54-4252-8345-e0bd4479883e")
+		(property "Reference" "H11"
+			(at 60.96 189.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 60.96 191.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 58.42 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 58.42 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Split_keyboard"
+				(path "/746a5aca-25fe-4581-b9dd-fba448d4b64a/ec6070db-a54a-4edd-b672-a653bdef4d4c"
+					(reference "H11")
+					(unit 1)
+				)
+				(path "/746a5aca-25fe-4581-b9dd-fba448d4b64a/f1b8001e-fae1-4cb5-a6cb-e2e89f570f36"
+					(reference "H12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 172.72 140.97 0)
 		(unit 1)
@@ -9021,7 +9089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 58.42 184.15 0)
 			(effects
 				(font
